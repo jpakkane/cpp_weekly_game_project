@@ -10,7 +10,7 @@
 #include <imgui.h>
 #include <spdlog/spdlog.h>
 
-#include <docopt/docopt.h>
+#include <docopt.h>
 #include <nlohmann/json.hpp>
 
 #include "ImGuiHelpers.hpp"
